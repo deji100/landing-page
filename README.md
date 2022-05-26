@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Clone Test
 
-Clone test.
+Clone test https://github.com/deji100/landing-page.git.
 
 ## Dependencies
 
