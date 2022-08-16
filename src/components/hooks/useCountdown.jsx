@@ -13,8 +13,6 @@ const useCountdown = (targetDate) => {
     const interval = setInterval(() => {
       setCountDown(countDownDate.current - new Date().getTime());
     }, 1000);
-    console.table(countDown / (1000 * 3600 * 24))
-    console.table(countDown % (1000 * 3600 * 24) / (1000 * 3600))
 
     return () => clearInterval(interval);
   }, [countDown]);
