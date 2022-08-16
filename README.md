@@ -21,8 +21,3 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-https://user-images.githubusercontent.com/68882568/184925909-7490bc41-4dfd-4634-a3f0-be13ef76dc8f.mp4
-
