@@ -6,11 +6,11 @@ const CountDown = () => {
 
   const NOW_IN_MS = new Date().getTime();
 
-  const dateTimeAfterThreeDays = NOW_IN_MS + SEVEN_DAYS_IN_MS;
+  const dateTimeAfterSevenDays = NOW_IN_MS + SEVEN_DAYS_IN_MS;
 
   return (
     <div>
-      <CountDownTimer targetDate={dateTimeAfterThreeDays} />
+      <CountDownTimer targetDate={dateTimeAfterSevenDays} />
     </div>
     )
 }
