@@ -1,10 +1,6 @@
-# Getting Started with Create React App
+# Landing Page (Web Design Interview Test with React)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Material UI.
-
-## Clone Test
-
-Clone test https://github.com/deji100/landing-page.git.
 
 ## Dependencies
 
@@ -14,10 +10,11 @@ Clone test https://github.com/deji100/landing-page.git.
 *   "@mui/material"
 *   "react-router-dom"
 
+## Sample Video
 
-## Available Scripts
+https://user-images.githubusercontent.com/68882568/185144614-f4102d05-826a-4252-8c1c-7e3c83b15e22.mp4
 
-In the project directory, you can run:
+## Sample Pictures
 
-### `npm start`
+
 
